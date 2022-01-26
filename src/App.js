@@ -20,7 +20,7 @@ function App() {
         <div className="basis-1/2">
           <CalButton label="05" />
         </div>
-        <div className="basis-1/2">
+        {/* <div className="basis-1/2">
           <CalButton label="06" />
         </div>
         <div className="basis-1/2">
@@ -34,7 +34,7 @@ function App() {
         </div>
         <div className="basis-1/2">
           <CalButton label="00" />
-        </div>
+        </div> */}
       </div>
     </div>
   );
